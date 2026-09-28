@@ -1,0 +1,7 @@
+[package]
+name = "mpsc_oneshot_broadcast_semantics"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+tokio = { version = "1", features = ["full"] }
